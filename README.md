@@ -97,8 +97,6 @@ fmt.Println(mask)
 // Output: FieldMask{Paths: name, profile.age}
 ```
 
----
-
 ## License
 
 MIT © 2025 G3deon, Inc.
